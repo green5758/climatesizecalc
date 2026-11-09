@@ -1,0 +1,63 @@
+name: Automated Daily 3-Review HVAC Publisher & Calculator Builder
+
+on:
+  schedule:
+    # Berjalan otomatis setiap hari pukul 05:30 UTC (menerbitkan 3 artikel review produk baru setiap hari)
+    - cron: '30 5 * * *'
+  workflow_dispatch: # Memungkinkan pemicuan manual kapan saja dengan 1 klik
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages-deploy"
+  cancel-in-progress: false
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Configure Git Bot for State Persistence
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run ClimateSizeCalc Generator (3 New Daily Reviews + Sitemap + IndexNow)
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: |
+          python3 generate_site.py
+
+      - name: Commit Updated State (posts_state.json) to Repository
+        run: |
+          git add posts_state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-publish 3 new daily HVAC & air quality product reviews [skip ci]"
+            git pull --rebase origin main || true
+            git push origin main
+          fi
+
+      - name: Upload Static Site Artifact for GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
