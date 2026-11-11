@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-10",
-  "next_index": 12,
+  "last_run_date": "2026-11-11",
+  "next_index": 15,
   "published_articles": [
     {
       "index": 0,
@@ -73,6 +73,24 @@
       "slug": "review-honeywell-8000-btu-smart-portable-air-conditioner-master-bedroom-12",
       "date": "2026-11-10",
       "title": "Honeywell 8,000 BTU Smart Portable Air Conditioner Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 12,
+      "slug": "review-blueair-8000-btu-smart-portable-air-conditioner-master-bedroom-13",
+      "date": "2026-11-11",
+      "title": "Blueair 8,000 BTU Smart Portable Air Conditioner Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 13,
+      "slug": "review-delonghi-8000-btu-smart-portable-air-conditioner-master-bedroom-14",
+      "date": "2026-11-11",
+      "title": "De'Longhi 8,000 BTU Smart Portable Air Conditioner Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 14,
+      "slug": "review-cooperhunter-8000-btu-smart-portable-air-conditioner-master-bedroom-15",
+      "date": "2026-11-11",
+      "title": "Cooper&Hunter 8,000 BTU Smart Portable Air Conditioner Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
     }
   ]
 }
