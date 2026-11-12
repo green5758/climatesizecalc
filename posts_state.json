@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-11",
-  "next_index": 15,
+  "last_run_date": "2026-11-12",
+  "next_index": 18,
   "published_articles": [
     {
       "index": 0,
@@ -91,6 +91,24 @@
       "slug": "review-cooperhunter-8000-btu-smart-portable-air-conditioner-master-bedroom-15",
       "date": "2026-11-11",
       "title": "Cooper&Hunter 8,000 BTU Smart Portable Air Conditioner Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 15,
+      "slug": "review-midea-10000-btu-dual-inverter-window-ac-master-bedroom-16",
+      "date": "2026-11-12",
+      "title": "Midea 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 16,
+      "slug": "review-senville-10000-btu-dual-inverter-window-ac-master-bedroom-17",
+      "date": "2026-11-12",
+      "title": "Senville 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 17,
+      "slug": "review-lg-10000-btu-dual-inverter-window-ac-master-bedroom-18",
+      "date": "2026-11-12",
+      "title": "LG 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
     }
   ]
 }
