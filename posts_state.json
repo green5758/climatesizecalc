@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-12",
-  "next_index": 18,
+  "last_run_date": "2026-11-13",
+  "next_index": 21,
   "published_articles": [
     {
       "index": 0,
@@ -109,6 +109,24 @@
       "slug": "review-lg-10000-btu-dual-inverter-window-ac-master-bedroom-18",
       "date": "2026-11-12",
       "title": "LG 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 18,
+      "slug": "review-pioneer-10000-btu-dual-inverter-window-ac-master-bedroom-19",
+      "date": "2026-11-13",
+      "title": "Pioneer 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 19,
+      "slug": "review-homelabs-10000-btu-dual-inverter-window-ac-master-bedroom-20",
+      "date": "2026-11-13",
+      "title": "hOmeLabs 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 20,
+      "slug": "review-coway-10000-btu-dual-inverter-window-ac-master-bedroom-21",
+      "date": "2026-11-13",
+      "title": "Coway 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
     }
   ]
 }
