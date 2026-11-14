@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-13",
-  "next_index": 21,
+  "last_run_date": "2026-11-14",
+  "next_index": 24,
   "published_articles": [
     {
       "index": 0,
@@ -127,6 +127,24 @@
       "slug": "review-coway-10000-btu-dual-inverter-window-ac-master-bedroom-21",
       "date": "2026-11-13",
       "title": "Coway 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 21,
+      "slug": "review-levoit-10000-btu-dual-inverter-window-ac-master-bedroom-22",
+      "date": "2026-11-14",
+      "title": "LEVOIT 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 22,
+      "slug": "review-frigidaire-10000-btu-dual-inverter-window-ac-master-bedroom-23",
+      "date": "2026-11-14",
+      "title": "Frigidaire 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 23,
+      "slug": "review-hisense-10000-btu-dual-inverter-window-ac-master-bedroom-24",
+      "date": "2026-11-14",
+      "title": "Hisense 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
     }
   ]
 }
