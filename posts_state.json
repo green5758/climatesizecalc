@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-14",
-  "next_index": 24,
+  "last_run_date": "2026-11-15",
+  "next_index": 27,
   "published_articles": [
     {
       "index": 0,
@@ -145,6 +145,24 @@
       "slug": "review-hisense-10000-btu-dual-inverter-window-ac-master-bedroom-24",
       "date": "2026-11-14",
       "title": "Hisense 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 24,
+      "slug": "review-whynter-10000-btu-dual-inverter-window-ac-master-bedroom-25",
+      "date": "2026-11-15",
+      "title": "Whynter 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 25,
+      "slug": "review-friedrich-10000-btu-dual-inverter-window-ac-master-bedroom-26",
+      "date": "2026-11-15",
+      "title": "Friedrich 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 26,
+      "slug": "review-honeywell-10000-btu-dual-inverter-window-ac-master-bedroom-27",
+      "date": "2026-11-15",
+      "title": "Honeywell 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
     }
   ]
 }
