@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-15",
-  "next_index": 27,
+  "last_run_date": "2026-11-16",
+  "next_index": 30,
   "published_articles": [
     {
       "index": 0,
@@ -163,6 +163,24 @@
       "slug": "review-honeywell-10000-btu-dual-inverter-window-ac-master-bedroom-27",
       "date": "2026-11-15",
       "title": "Honeywell 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 27,
+      "slug": "review-blueair-10000-btu-dual-inverter-window-ac-master-bedroom-28",
+      "date": "2026-11-16",
+      "title": "Blueair 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 28,
+      "slug": "review-delonghi-10000-btu-dual-inverter-window-ac-master-bedroom-29",
+      "date": "2026-11-16",
+      "title": "De'Longhi 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 29,
+      "slug": "review-cooperhunter-10000-btu-dual-inverter-window-ac-master-bedroom-30",
+      "date": "2026-11-16",
+      "title": "Cooper&Hunter 10,000 BTU Dual-Inverter Window AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
     }
   ]
 }
