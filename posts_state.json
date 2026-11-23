@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-22",
-  "next_index": 48,
+  "last_run_date": "2026-11-23",
+  "next_index": 51,
   "published_articles": [
     {
       "index": 0,
@@ -289,6 +289,24 @@
       "slug": "review-lg-14000-btu-high-output-dual-hose-ac-master-bedroom-48",
       "date": "2026-11-22",
       "title": "LG 14,000 BTU High-Output Dual-Hose AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 48,
+      "slug": "review-pioneer-14000-btu-high-output-dual-hose-ac-master-bedroom-49",
+      "date": "2026-11-23",
+      "title": "Pioneer 14,000 BTU High-Output Dual-Hose AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 49,
+      "slug": "review-homelabs-14000-btu-high-output-dual-hose-ac-master-bedroom-50",
+      "date": "2026-11-23",
+      "title": "hOmeLabs 14,000 BTU High-Output Dual-Hose AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 50,
+      "slug": "review-coway-14000-btu-high-output-dual-hose-ac-master-bedroom-51",
+      "date": "2026-11-23",
+      "title": "Coway 14,000 BTU High-Output Dual-Hose AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
     }
   ]
 }
