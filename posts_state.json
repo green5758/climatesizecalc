@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-26",
-  "next_index": 60,
+  "last_run_date": "2026-11-27",
+  "next_index": 63,
   "published_articles": [
     {
       "index": 0,
@@ -361,6 +361,24 @@
       "slug": "review-cooperhunter-14000-btu-high-output-dual-hose-ac-master-bedroom-60",
       "date": "2026-11-26",
       "title": "Cooper&Hunter 14,000 BTU High-Output Dual-Hose AC Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 60,
+      "slug": "review-midea-9000-btu-21-seer2-ductless-mini-split-heat-pump-master-bedroom-61",
+      "date": "2026-11-27",
+      "title": "Midea 9,000 BTU 21-SEER2 Ductless Mini-Split Heat Pump Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 61,
+      "slug": "review-senville-9000-btu-21-seer2-ductless-mini-split-heat-pump-master-bedroom-62",
+      "date": "2026-11-27",
+      "title": "Senville 9,000 BTU 21-SEER2 Ductless Mini-Split Heat Pump Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
+    },
+    {
+      "index": 62,
+      "slug": "review-lg-9000-btu-21-seer2-ductless-mini-split-heat-pump-master-bedroom-63",
+      "date": "2026-11-27",
+      "title": "LG 9,000 BTU 21-SEER2 Ductless Mini-Split Heat Pump Review: Tested for Master Bedroom & Light-Sleeper Acoustic Comfort"
     }
   ]
 }
